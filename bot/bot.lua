@@ -241,6 +241,7 @@ function create_config( )
      "weather",
      "webshot",
      "music";
+     "spam";
      },
     sudo_users = {190840223},
     admin_users = {},
